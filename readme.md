@@ -87,14 +87,14 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 | 2     | 280mm 1515 Aluminium Extrusion |
 | 1     | 3mm Acrylic or PC Panel - 330mm x 290mm |
 
-### StealthFork 180
+### StealthFork / SaladFork 180
 | Qty   | Item |
 | :---: | :---- |
 | 2     | 400mm 1515 Aluminium Extrusion |
 | 2     | 290mm 1515 Aluminium Extrusion |
 | 1     | 3mm Acrylic or PC Panel - 380mm x 300mm |
 
-### StealthFork 160
+### StealthFork / SaladFork 160
 | Qty   | Item |
 | :---: | :---- |
 | 2     | 400mm 1515 Aluminium Extrusion |
